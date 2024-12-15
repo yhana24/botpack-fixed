@@ -26,17 +26,17 @@
     "resend.js"
   ],
   "eventDisabled": [],
-  "OWNER": "Jonell Magallanes",
-  "BOTNAME": "CC PROJECTS",
+  "OWNER": "OWNER OF BOT",
+  "BOTNAME": "BOTNAME HERE",
   "PREFIX": "?",
   "ADMINBOT": [
-    "100036956043695",
+    "UID HERE ADMIN",
     ""
   ],
   "DESIGN": {
-    "Title": "CC PROJECT",
+    "Title": "BOTPACK",
     "Theme": "BLUE",
-    "Admin": "Jonell Magallanes",
+    "Admin": "FIXED BY JONELL",
     "Setup": {
       "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
